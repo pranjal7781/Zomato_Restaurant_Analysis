@@ -47,7 +47,7 @@ To explore this dashboard on your local machine:
 
 2.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
+    https://github.com/pranjal7781/Zomato_Restaurant_Analysis.git
     ```
 
 3.  **Open the Project:**
