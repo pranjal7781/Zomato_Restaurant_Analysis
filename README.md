@@ -64,3 +64,4 @@ To explore this dashboard on your local machine:
 * `zomato data - Sheet1.xlsx`: The primary dataset file.
 * `zomato data - Sheet2.xlsx`: The country code mapping file.
 * `README.md`: This file, providing an overview of the project.
+* `Report Images` : An Image of the Power BI report.
