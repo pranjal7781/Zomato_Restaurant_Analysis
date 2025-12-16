@@ -24,7 +24,7 @@ This dashboard provides a detailed analysis of Zomato's restaurant data. The goa
 
 ---
 
-## 📂 Dataset
+## 📂 Dataset 
 
 The dataset used for this analysis contains detailed information for thousands of restaurants, including:
 * `RestaurantID`: Unique identifier for each restaurant.
