@@ -3,7 +3,7 @@
 An interactive dashboard built in Microsoft Power BI to analyze and visualize data from Zomato. This project aims to uncover trends and insights related to restaurant ratings, pricing, locations, and cuisines.
  
 ---
-
+  
 ## 🎯 Project Overview
 
 This dashboard provides a detailed analysis of Zomato's restaurant data. The goal is to empower users to explore key metrics through interactive visuals. By filtering data by city, rating, or cuisine, one can gain a deeper understanding of the restaurant landscape in different regions.
