@@ -1,7 +1,7 @@
 # Zomato Restaurant Data Analysis with Power BI  
 
 An interactive dashboard built in Microsoft Power BI to analyze and visualize data from Zomato. This project aims to uncover trends and insights related to restaurant ratings, pricing, locations, and cuisines.
- 
+
 ---
   
 ## 🎯 Project Overview
